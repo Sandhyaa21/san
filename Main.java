@@ -1,6 +1,6 @@
 import java.lang;
-class main{
-public static void Main(String args[]){
+public class main{
+public static void main(String args[]){
 System.out.println("Hello World");
 }
 }
